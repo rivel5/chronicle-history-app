@@ -1,0 +1,10 @@
+{
+  "name": "Chronicle: History You Remember",
+  "short_name": "Chronicle",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07131f",
+  "theme_color": "#07131f",
+  "description": "Daily cinematic history lessons with quizzes and spaced review.",
+  "icons": [{"src":"icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
